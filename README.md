@@ -48,5 +48,6 @@ cd <repository-folder>
 
 ### **Build and Run the Calculator API**
 ```sh
+./gradlew clean build
 docker compose up --build
 ```

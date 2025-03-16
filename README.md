@@ -54,4 +54,4 @@ docker compose up --build
 ```
 
 ### **JDK Used**
-correto - 17 Amazon corretto 17.0.12
+Correto - 17 Amazon corretto 17.0.12

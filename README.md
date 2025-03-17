@@ -36,7 +36,8 @@ Other functionalities:
 ## **Build and Run Instructions**  
 
 ### **Prerequisites**  
-Ensure the following dependencies are installed on your system:  
+Ensure the following dependencies are installed on your system:
+-  Java 17 or higher.
 
 - **Docker & Docker Compose**  
 
@@ -51,3 +52,6 @@ cd <repository-folder>
 ./gradlew clean build
 docker compose up --build
 ```
+
+### **JDK Used**
+Correto - 17 Amazon corretto 17.0.12
